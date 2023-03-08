@@ -1,1 +1,2 @@
-I have ubdated my Readme.md
+my first read me
+I have updated my Readme.md
